@@ -1,0 +1,21 @@
+{"version": 4,
+ "packagesDir": "lake-packages",
+ "packages":
+ [{"git":
+   {"url": "https://github.com/adamtopaz/lean_gpt.git",
+    "subDir?": null,
+    "rev": "cf4e7577dc187c775fd951f94c8db51f020bd132",
+    "name": "gpt",
+    "inputRev?": null}},
+  {"git":
+   {"url": "https://github.com/adamtopaz/lean_pinecone.git",
+    "subDir?": null,
+    "rev": "43b43e0e1e12e92b406fdb618a6e43aae5f5d7e5",
+    "name": "pinecone",
+    "inputRev?": null}},
+  {"git":
+   {"url": "https://github.com/adamtopaz/lean_embedding.git",
+    "subDir?": null,
+    "rev": "2c15847aade391ce6cc82b52d396a7acc0b8b030",
+    "name": "embeddings",
+    "inputRev?": null}}]}
